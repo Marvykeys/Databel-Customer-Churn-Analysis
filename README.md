@@ -1,6 +1,6 @@
 # Databel-Customer-Churn-Analysis :chart_with_downwards_trend:
 ## Scope :page_with_curl:
-This report is focused on investigating a dataset from an example telecom company called Databel and analyze their churn rates. Analyzing churn doesn’t just mean knowing what the churn rate is: it’s also about figuring out why customers are churning at the rate they are, and how to reduce churn.
+This report is focused on investigating a dataset from an example telecom company called Databel and analyze their churn rates. Analyzing churn doesn’t just mean knowing what the churn rate is, it’s also about figuring out why customers are churning at the rate they are, and how to reduce churn.
 Useful insights were obtained.
 ## Data Design :bar_chart:
 The raw data provided were downloaded in CSV file formats and it came with some of its contents being improperly formatted hence, a proper data cleaning had to be done.
@@ -57,14 +57,28 @@ I visualize the churners by Churn Category.
 <img width="391" alt="DATABEL BI 10" src="https://github.com/Marvykeys/Databel-Customer-Churn-Analysis/assets/130637591/e6d66108-72af-4bfa-ab4a-b29c2827bfdb">
 
 ##
-I checked the airbnb_room_type.xlsx dataset and found that on the room_type column, some rows begin with lowercase letters and others with uppercase letters. 
+I added the churn rate, number of customers & number of churned customers to the tooltips and visualized using the Map visual.
 
-<img width="129" alt="Airbnb 11" src="https://github.com/Marvykeys/Airbnb-New-York-City-Market-Analysis/assets/130637591/b152c5f5-eda7-446d-89f4-f2d4dd0945eb">
+<img width="593" alt="DATABEL BI 11" src="https://github.com/Marvykeys/Databel-Customer-Churn-Analysis/assets/130637591/2441fb97-ee97-49dc-a74e-be66d2c7f9df">
 
 ##
-I changed the format for all entries in the room_type column to be all lowercase.
+I created a new column called "Demographics" with 3 categories "Senior", "Under 30" & "Other".
 
-<img width="399" alt="Airbnb 12" src="https://github.com/Marvykeys/Airbnb-New-York-City-Market-Analysis/assets/130637591/b890d9fd-2a2b-4fcc-ba0e-5010b4424d9d">
+<img width="644" alt="DATABEL BI 12" src="https://github.com/Marvykeys/Databel-Customer-Churn-Analysis/assets/130637591/2890225d-bc9e-49e2-ae14-036d564fa1c6">
+
+##
+
+<img width="376" alt="DATABEL BI 13" src="https://github.com/Marvykeys/Databel-Customer-Churn-Analysis/assets/130637591/66eec313-4d3c-498a-9592-ca83e45b5ae7">
+
+##
+I created a line and stacked column chart which shows the number of customers and churn rate for every age bracket.
+
+<img width="475" alt="DATABEL BI 14" src="https://github.com/Marvykeys/Databel-Customer-Churn-Analysis/assets/130637591/c697743c-7119-48c6-b182-2ba8ce13a963">
+
+##
+I created a bar chart which plots the average monthly phone bill charge by "Number of customers in Group".
+
+<img width="421" alt="DATABEL BI 15" src="https://github.com/Marvykeys/Databel-Customer-Churn-Analysis/assets/130637591/b1e427a3-5df8-48ae-8a96-349319ce25d0">
 
 ## Analysis Questions Answered :bar_chart:
 
