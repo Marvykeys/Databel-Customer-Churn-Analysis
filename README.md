@@ -114,6 +114,13 @@ To better understand the international activity of customers and its relationshi
 
 <img width="544" alt="DATABEL BI 20" src="https://github.com/Marvykeys/Databel-Customer-Churn-Analysis/assets/130637591/769e228d-ba73-45fb-bf38-a037572fc735">
 
+##
+**KEY INSIGHT**
+It is discovered that the churn rate for customers who pay for an international plan and but don't call internationally is sky-high.
+Databel is advised to contact customers who are on an international plan but have not called internationally and propose they downgrade their plan.
+
+
+
 ## The Dashboard Before Design
 
 
