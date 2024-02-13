@@ -1,6 +1,6 @@
 # Databel-Customer-Churn-Analysis :chart_with_downwards_trend:
 ## Scope :page_with_curl:
-This report is focused on investigating a dataset from an example telecom company called Databel and analyze their churn rates. Analyzing churn doesn’t just mean knowing what the churn rate is, it’s also about figuring out why customers are churning at the rate they are, and how to reduce churn.
+This report is focused on investigating a dataset from an example telecom company called Databel and analyzing their churn rates. Analyzing churn doesn’t just mean knowing what the churn rate is, it’s also about figuring out why customers are churning at the rate they are, and how to reduce churn.
 Useful insights were obtained.
 ## Data Design :bar_chart:
 The raw data provided were downloaded in CSV file formats and it came with some of its contents being improperly formatted hence, a proper data cleaning had to be done.
