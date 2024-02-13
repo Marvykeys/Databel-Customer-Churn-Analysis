@@ -92,11 +92,13 @@ To observe how yearly and monthly contracts affect the churn rate, I use a multi
 
 ##
 **KEY INSIGHT**
-Customers with monthly contracts, churn more compared to cusyomers with yearly contracts.
+Customers with monthly contracts, churn more compared to customers with yearly contracts.
 
 ##
-In the process of investigating how the "Unlimited Data Plan" influences the churn rate, I create a column named "Grouped Consumption" which classifies the Average Monthly GB Download into "Less than 5 GB", "Between 5 & 10 GB" and "10 or more GB".
-I created a Table vizualisation which displays the churn rate for customers who have the unlimted plan and for customers who don't. I also created a Clustered Bar Chart to display Churn rate by Unlimited data plan and by the 3 newly created groups.
+In the process of investigating how the "Unlimited Data Plan" influences the churn rate, 
+I create a column named "Grouped Consumption" which classifies the Average Monthly GB Download into "Less than 5 GB", "Between 5 & 10 GB" and "10 or more GB".
+I created a Table vizualisation which displays the churn rate for customers who have the unlimted plan and for customers who don't. 
+I also created a Clustered Bar Chart to display Churn rate by Unlimited data plan and by the 3 newly created groups.
 
 <img width="549" alt="DATABEL BI 18" src="https://github.com/Marvykeys/Databel-Customer-Churn-Analysis/assets/130637591/dc0e8564-c6b1-433a-a46a-465318ea2c90">
 
