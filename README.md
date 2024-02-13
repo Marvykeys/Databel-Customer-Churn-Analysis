@@ -80,19 +80,37 @@ I created a bar chart which plots the average monthly phone bill charge by "Numb
 
 <img width="421" alt="DATABEL BI 15" src="https://github.com/Marvykeys/Databel-Customer-Churn-Analysis/assets/130637591/b1e427a3-5df8-48ae-8a96-349319ce25d0">
 
-## Analysis Questions Answered :bar_chart:
+##
+Created a new column named "Contract Category" to help observe the difference between customers who have only yearly contracts and those having monthly contracts.
 
-a) What is the average price per night of an Airbnb listing?
+<img width="585" alt="DATABEL BI 16" src="https://github.com/Marvykeys/Databel-Customer-Churn-Analysis/assets/130637591/52f30bb6-6b8b-45fc-9f92-7ce5ff2950fc">
 
-b) How does the average price of an Airbnb listing, per month, compare to the private rental market?
+##
+To observe how yearly and monthly contracts affect the churn rate, I use a multi-row card visualization, to see clearly see the difference.
 
-c) How many adverts are for private rooms?
+<img width="405" alt="DATABEL BI 17" src="https://github.com/Marvykeys/Databel-Customer-Churn-Analysis/assets/130637591/45c5f9f2-1249-454d-b0b9-46763cfaa6eb">
 
-d) How do Airbnb listing prices compare across the five NYC Boroughs?                                         
+##
+**KEY INSIGHT**
+Customers with monthly contracts, churn more compared to cusyomers with yearly contracts.
+
+##
+In the process of investigating how the "Unlimited Data Plan" influences the churn rate, I create a column named "Grouped Consumption" which classifies the Average Monthly GB Download into "Less than 5 GB", "Between 5 & 10 GB" and "10 or more GB".
+I created a Table vizualisation which displays the churn rate for customers who have the unlimted plan and for customers who don't. I also created a Clustered Bar Chart to display Churn rate by Unlimited data plan and by the 3 newly created groups.
+
+<img width="549" alt="DATABEL BI 18" src="https://github.com/Marvykeys/Databel-Customer-Churn-Analysis/assets/130637591/dc0e8564-c6b1-433a-a46a-465318ea2c90">
+
+##
+
+<img width="529" alt="DATABEL BI 19" src="https://github.com/Marvykeys/Databel-Customer-Churn-Analysis/assets/130637591/e0a46916-0497-4dd0-b989-0b583124b952">
+
+##
+To better understand the international activity of customers and its relationship to churn, I created a Matrix Vizualisation which displays the churn rate by "Intl Plan" & "Intl Active" columns. To focus on a state by state basis, I changed the category of state to "State or Province".
+
+<img width="544" alt="DATABEL BI 20" src="https://github.com/Marvykeys/Databel-Customer-Churn-Analysis/assets/130637591/769e228d-ba73-45fb-bf38-a037572fc735">
 
 ## The Dashboard Before Design
 
-<img width="850" alt="AIRBNB SCREENSHOT" src="https://github.com/Marvykeys/Airbnb-New-York-City-Market-Analysis/assets/130637591/7f9a0168-5945-4cc2-b160-f6b3674d9053">
 
 ## THE FINAL INTERACTIVE DASHBOARD :art:
-https://app.powerbi.com/view?r=eyJrIjoiOWIyYzc0OWQtZTE1OC00MGNkLTg4ZmMtYmU3YzhiOWY0YWRlIiwidCI6IjE5NmUyMGNhLWY4NDgtNGRiYy1iODEyLTAxMjVjZGE4NjQ5NCJ9
+
