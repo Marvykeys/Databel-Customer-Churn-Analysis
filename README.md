@@ -131,4 +131,4 @@ I also created a pie chart to see the number of customers per each payment type.
 <img width="575" alt="DATABEL BI 22" src="https://github.com/Marvykeys/Databel-Customer-Churn-Analysis/assets/130637591/06549c9d-b793-4ffc-8cdb-dd5f13f94899">
 
 ## THE FINAL INTERACTIVE DASHBOARD :art:
-https://app.powerbi.com/view?r=eyJrIjoiY2VjMzM0MzUtMjE5My00Njc3LWFlM2EtNjA0M2NjZDE3Y2U1IiwidCI6IjE5NmUyMGNhLWY4NDgtNGRiYy1iODEyLTAxMjVjZGE4NjQ5NCJ9
+[Dashboard](https://app.powerbi.com/view?r=eyJrIjoiY2VjMzM0MzUtMjE5My00Njc3LWFlM2EtNjA0M2NjZDE3Y2U1IiwidCI6IjE5NmUyMGNhLWY4NDgtNGRiYy1iODEyLTAxMjVjZGE4NjQ5NCJ9)
