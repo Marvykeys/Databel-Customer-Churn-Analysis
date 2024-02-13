@@ -22,12 +22,11 @@ I created two measures to check if the count of customer ids is equal to the cou
 
 <img width="211" alt="DATABEL BI 7a" src="https://github.com/Marvykeys/Databel-Customer-Churn-Analysis/assets/130637591/d9a60c3e-71e2-40a2-b28c-c2f7eecdc154">
 
-
 ##
 
 <img width="465" alt="DATABEL BI 4" src="https://github.com/Marvykeys/Databel-Customer-Churn-Analysis/assets/130637591/ca83a5e5-8d9a-4938-9c3c-5debfa9cd19e">
 
-##
+## Analysis & Visuallization 📈
 There is a column called "Churn Label" that indicates "Yes" or "No". I converted this column into a column indicating if a customer churned or not.     
 
 <img width="401" alt="DATABEL BI 5" src="https://github.com/Marvykeys/Databel-Customer-Churn-Analysis/assets/130637591/72b61b74-fc96-4726-b2be-eddf1a0b2e3c">
@@ -119,10 +118,17 @@ To better understand the international activity of customers and its relationshi
 It is discovered that the churn rate for customers who pay for an international plan and but don't call internationally is sky-high.
 Databel is advised to contact customers who are on an international plan but have not called internationally and propose they downgrade their plan.
 
+##
+In Evaluating if the churn rate decreases overtime, I created a line chart using the "Account length" and "Churn rate".
+**Findings** The churn rate decreases overtime.
+In Evaluating how this decrease affects the different contract types, I created another line chart to visualize the decrease for each contract type.
+I also created a pie chart to see the number of customers per each payment type.
 
+<img width="542" alt="DATABEL BI 21" src="https://github.com/Marvykeys/Databel-Customer-Churn-Analysis/assets/130637591/ded51a81-672e-45c7-bd39-b34099fed73e">
 
 ## The Dashboard Before Design
 
+<img width="575" alt="DATABEL BI 22" src="https://github.com/Marvykeys/Databel-Customer-Churn-Analysis/assets/130637591/06549c9d-b793-4ffc-8cdb-dd5f13f94899">
 
 ## THE FINAL INTERACTIVE DASHBOARD :art:
-
+https://app.powerbi.com/view?r=eyJrIjoiY2VjMzM0MzUtMjE5My00Njc3LWFlM2EtNjA0M2NjZDE3Y2U1IiwidCI6IjE5NmUyMGNhLWY4NDgtNGRiYy1iODEyLTAxMjVjZGE4NjQ5NCJ9
