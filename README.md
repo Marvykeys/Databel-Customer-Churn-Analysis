@@ -86,7 +86,7 @@ Created a new column named "Contract Category" to help observe the difference be
 <img width="585" alt="DATABEL BI 16" src="https://github.com/Marvykeys/Databel-Customer-Churn-Analysis/assets/130637591/52f30bb6-6b8b-45fc-9f92-7ce5ff2950fc">
 
 ##
-To observe how yearly and monthly contracts affect the churn rate, I use a multi-row card visualization, to see clearly see the difference.
+To observe how yearly and monthly contracts affect the churn rate, I use a multi-row card visualization, to clearly see the difference.
 
 <img width="405" alt="DATABEL BI 17" src="https://github.com/Marvykeys/Databel-Customer-Churn-Analysis/assets/130637591/45c5f9f2-1249-454d-b0b9-46763cfaa6eb">
 
